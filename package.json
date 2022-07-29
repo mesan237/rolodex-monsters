@@ -2,7 +2,7 @@
   "name": "monsters-rodolex",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/mesan237/monsters-rolodex",
+  "homepage": "https://github.com/mesan237/monstre-rolodex",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
